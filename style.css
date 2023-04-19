@@ -29,7 +29,7 @@ body{
     width: 95px;
     background-color: #000000;
     border-radius: 50%;
-    animation: loading 1s infinite;
+    animation: loading 0.7s infinite;
 
     
 }
